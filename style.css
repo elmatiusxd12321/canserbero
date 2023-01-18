@@ -1,0 +1,35 @@
+body
+{
+    
+    background: rgb(255,0,0);
+
+    background: linear-gradient(160deg, rgba(255,0,0,0.92) 25%, rgba(43,254,243,0.92) 50%, rgba(67,255,0,0.92) 75%, rgba(129,98,255,0.8) 100%);
+
+    text-align: center;
+    
+}
+.barra{
+
+list-style: none ;
+
+position: absolute ;
+
+top: -10px ;
+
+right: 200px ;
+
+z-index: 10px ;
+
+cursor: pointer ;
+
+}
+.button{
+
+    float: left; padding-top: 5px; padding-left: 9px; padding-right: 9px; padding-bottom: 5px; font-family: monospace ; font-size: 20px;
+
+}
+body{
+
+align-items: 50%;
+
+}
